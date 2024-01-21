@@ -1,5 +1,7 @@
 # aws-infra
 
+![Alt text](image.png)
+
 We have four main files for our Terraform configuration. 
 
 1. The "provider.tf" file specifies the provider and region details. 
